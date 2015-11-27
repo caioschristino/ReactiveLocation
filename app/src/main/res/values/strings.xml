@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reactive Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_KEY">AIzaSyDywtkNmK2K6OLXpcvdjx4yph84q9I5rcw</string>
+</resources>
